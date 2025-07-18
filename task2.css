@@ -26,6 +26,9 @@ body {
   width: 100%;
   max-width: 1200px;
 }
+nav{
+  gap: 15px;
+}
 
 header {
   grid-area: header;
